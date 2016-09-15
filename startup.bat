@@ -1,0 +1,1 @@
+java -Xmx512m -Ddisable.tools.graphic.sql.DEBUG=true -cp libs\hibernate-core-5.1.0.Final.jar;libs\opencsv-3.7.jar;libs\commons-lang3-3.4.jar;libs\commons-net-3.3.jar;groovy-all-2.4.5.jar;libs\yamlbeans-1.09.jar;src groovy.ui.GroovyMain Startup.groovy
